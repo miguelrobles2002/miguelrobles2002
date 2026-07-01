@@ -92,7 +92,7 @@ Sistema híbrido que detecta vulnerabilidades en código PHP con un modelo CodeB
 → [Ver repositorio](https://github.com/miguelrobles2002/php-ai-security-tfg)
 
 **`▸ JARVIS`** — `IA · Automatización`
-Asistente de IA local controlado por voz y Telegram. Más de 80 funciones: control del sistema, correo, calendario, generación de imágenes, y administración remota de un entorno Kali Linux para pentesting.
+⭐Proyecto Estrella⭐ Asistente de IA local controlado por voz y Telegram. Más de 80 funciones: control del sistema, correo, calendario, generación de imágenes, y administración remota de un entorno Kali Linux para pentesting.
 `Python` · `Ollama` · `Telegram API` · `Whisper`
 → [Ver repositorio](https://github.com/miguelrobles2002/JARVIS)
 
@@ -134,6 +134,6 @@ $ neofetch --stack
 └────────────────────────────────────────────────────────┘
 ```
 
-<sub>`// Técnico Superior ASIR · Sobresaliente en ambas FCT · Huelva · 2026`</sub>
+<sub>`// Técnico Superior ASIR · Sobresaliente en ambas FCT · 2026`</sub>
 
 </div>
