@@ -88,9 +88,9 @@ $ neofetch --stack
 ┌─[ TELEMETRÍA ]────────────────────────────────────────┐
 ```
 
-![Stats](https://github-readme-stats.vercel.app/api?username=miguelrobles2002&show_icons=true&hide_border=true&bg_color=0e1116&title_color=f0a830&icon_color=4fd1c5&text_color=9aa4b2&ring_color=f0a830)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=miguelrobles2002&show_icons=true&hide_border=true&bg_color=0e1116&title_color=f0a830&icon_color=4fd1c5&text_color=9aa4b2&ring_color=f0a830)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelrobles2002&layout=compact&hide_border=true&bg_color=0e1116&title_color=f0a830&text_color=9aa4b2)
+![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miguelrobles2002&layout=compact&hide_border=true&bg_color=0e1116&title_color=f0a830&text_color=9aa4b2)
 
 ![Streak](https://streak-stats.demolab.com/?user=miguelrobles2002&hide_border=true&background=0e1116&stroke=232b36&ring=f0a830&fire=e5534b&currStreakLabel=4fd1c5&sideLabels=9aa4b2&dates=9aa4b2&currStreakNum=e8e6e1&sideNums=e8e6e1)
 
