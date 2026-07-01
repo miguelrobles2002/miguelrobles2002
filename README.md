@@ -94,6 +94,7 @@ Sistema híbrido que detecta vulnerabilidades en código PHP con un modelo CodeB
 **`▸ JARVIS`** — `IA · Automatización`
 Asistente de IA local controlado por voz y Telegram. Más de 80 funciones: control del sistema, correo, calendario, generación de imágenes, y administración remota de un entorno Kali Linux para pentesting.
 `Python` · `Ollama` · `Telegram API` · `Whisper`
+→ [Ver repositorio](https://github.com/miguelrobles2002/JARVIS)
 
 **`▸ WEB CLÍNICA`** — `Full-stack`
 Sistema completo de gestión para una clínica: reservas multi-doctor, panel de administración y gestión de contenidos. Cliente real, desplegado y funcionando.
